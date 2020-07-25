@@ -6,7 +6,7 @@ This repository gathers Google application scripts that extend the Google suite.
 The following applications are available:
 1. Google doc
 2. Google drive
-3. Google sheet
+2. Google sheet
 
 # Google doc
 Google doc provides features that are described in their own subsections below.
@@ -14,6 +14,7 @@ These features depend on options and settings that are attached either to
 * the Google doc script
 * the document using that script
 * a user of that script
+
 These options are stored and retrived via the [Properties](https://developers.google.com/apps-script/reference/properties/properties) service.
 ## List manipulation
 ## Numbered headings
@@ -26,4 +27,6 @@ Blank line removal
 ## URL handling
 Color
 # Google drive
+TBD
+# Google sheet
 TBD
