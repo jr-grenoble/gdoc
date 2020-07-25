@@ -10,6 +10,7 @@ The following applications are available:
 
 # Google doc
 Google doc provides features that are described in their own subsections below.
+It relies on the advanced [Docs service](https://developers.google.com/apps-script/advanced/docs) .
 These features depend on options and settings that are attached either to
 * the Google doc script itself,
 * the document using that script, or
