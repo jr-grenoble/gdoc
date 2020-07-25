@@ -10,7 +10,8 @@ The following applications are available:
 
 # Google doc
 Google doc provides features that are described in their own subsections below.
-It relies on the advanced [Docs service](https://developers.google.com/apps-script/advanced/docs) .
+It relies on the advanced [Docs service](https://developers.google.com/apps-script/advanced/docs). Refer to the [guide](https://developers.google.com/apps-script/guides/docs) for document structure and to the [reference](https://developers.google.com/apps-script/reference/document) for the built-in library. For complex operations that aren't accessible via the library, you need to use the [API reference](https://developers.google.com/docs/api/reference/rest) and rely on `get` and `batchUpdate` to change the document state.
+
 These features depend on options and settings that are attached either to
 * the Google doc script itself,
 * the document using that script, or
