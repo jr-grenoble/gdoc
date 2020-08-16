@@ -33,6 +33,9 @@ It also removes all blank lines from the document. This is an option that is tur
 It provides vairous ways to insert extra space between paragraphs and automate spacing around tables.
 
 ## Table handling
+### Table cell coloring
+### Table for image positioning
+## Table of contents
 ## URL handling
 Color
 # Google drive
